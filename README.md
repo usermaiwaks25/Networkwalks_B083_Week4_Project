@@ -344,6 +344,7 @@ The complete penetration testing report contains the detailed methodology, findi
 **Assessment:** Mediroza General Hospital  
 **Project:** Networkwalks Batch B083 — Week 4  
 **Tester:** Ibrahim Usman Maiwake
+**Tutor:** Waqas Karim CCIE
 
 ---
 
