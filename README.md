@@ -84,7 +84,7 @@ Initial reconnaissance was performed against the target domain to understand the
 
 ### Evidence
 
-![Reconnaissance evidence](images/evidence-1.png)
+![Reconnaissance evidence](evidence-1.png)
 
 ---
 
@@ -109,7 +109,7 @@ was successfully identified.
 
 ### Evidence
 
-![Username enumeration evidence](images/evidence-2.png)
+![Username enumeration evidence](evidence-2.png)
 
 ---
 
@@ -123,7 +123,7 @@ The assessment subsequently demonstrated successful authentication compromise ag
 
 ### Evidence
 
-![SQL injection evidence](images/evidence-3.png)
+![SQL injection evidence](evidence-3.png)
 
 ---
 
@@ -139,7 +139,7 @@ The reports contained sensitive laboratory information.
 
 ### Evidence
 
-![Patient reports evidence](images/evidence-4.png)
+![Patient reports evidence](evidence-4.png)
 
 ---
 
@@ -163,7 +163,7 @@ The decrypted reports contained laboratory results, including:
 
 ### Evidence
 
-![PDF password recovery evidence](images/evidence-5.png)
+![PDF password recovery evidence](evidence-5.png)
 
 ---
 
@@ -183,7 +183,7 @@ This provided an operational clue for further investigation.
 
 ### Evidence
 
-![PDF metadata evidence](images/evidence-6.png)
+![PDF metadata evidence](evidence-6.png)
 
 ---
 
@@ -195,7 +195,7 @@ This allowed the contents of the directory to be listed.
 
 ### Evidence
 
-![Directory indexing evidence](images/evidence-7.png)
+![Directory indexing evidence](evidence-7.png)
 
 ---
 
@@ -213,7 +213,7 @@ Analysis of the backup exposed sensitive organizational information, including h
 
 ### Evidence
 
-![Database backup evidence](images/evidence-8.png)
+![Database backup evidence](evidence-8.png)
 
 ---
 
@@ -225,7 +225,7 @@ This finding significantly increased the impact of the earlier server-configurat
 
 ### Evidence
 
-![Sensitive data evidence](images/evidence-9.png)
+![Sensitive data evidence](evidence-9.png)
 
 ---
 
